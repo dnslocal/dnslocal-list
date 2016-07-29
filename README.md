@@ -1,6 +1,5 @@
 # dnslocal-list
 dnslocal supported domain list.
-## Supported Sites
 
 | Site | URL | IPv4? | IPv6? | HSTS? |
 | :--: | :-- | :-----: | :-----: | :-----: |
